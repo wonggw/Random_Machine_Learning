@@ -7,14 +7,14 @@ Will continue to update this respositary if i have more ideas.
 ## Projects
 
 1. 
-        | Games         | Algorithm                          |
-        | ------------- | ---------------------------------- |
-        | Atari         | Deep Deterministic Policy Gradient |
-        | Atari         | Genetic Algorithm                  |
-        | Cartpole      | Deep Q Network                     |
-        | Cartpole      | Deep Deterministic Policy Gradient |
-        | Cartpole      | Genetic Algorithm                  |
-        | Flappy Bird   | Deep Q Network                     |
+| **Games**     | **Algorithm**                      |
+| ------------- | ---------------------------------- |
+| Atari         | Deep Deterministic Policy Gradient |
+| Atari         | Genetic Algorithm                  |
+| Cartpole      | Deep Q Network                     |
+| Cartpole      | Deep Deterministic Policy Gradient |
+| Cartpole      | Genetic Algorithm                  |
+| Flappy Bird   | Deep Q Network                     |
     
 2. Using Random forest on a sonar dataset. 
  
