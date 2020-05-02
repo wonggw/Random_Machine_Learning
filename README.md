@@ -8,7 +8,7 @@ Will continue to update this respositary if i have more ideas.
 
 1. 
         | Games         | Algorithm                          |
-        | ------------- |:----------------------------------:|
+        | ------------- | ---------------------------------- |
         | Atari         | Deep Deterministic Policy Gradient |
         | Atari         | Genetic Algorithm                  |
         | Cartpole      | Deep Q Network                     |
